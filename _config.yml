@@ -1,12 +1,12 @@
 remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this theme)
 
 # Edit your preferences below 
-title: John Doe
-subtitle: Full Stack Web Developer
+title: Adrian
+subtitle: Developer
 description: >- # this means to ignore newlines until "baseurl:"
   John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
 
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "http://adrianEVI.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -26,7 +26,7 @@ author: John Doe
 author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
 author_email: "johndoe@gmail.com"
 author_location: India
-author_website_url: "http://johndoe.com"
+author_website_url: "http://adrianEVI.github.io"
 
 author_work_experiences: 
             - company_name: Google
