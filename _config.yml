@@ -21,7 +21,7 @@ urls:
 
 # Edit these details 
 
-author_logo: profile.png
+author_logo: #profile.png
 author: John Doe
 author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
 author_email: "johndoe@gmail.com"
@@ -30,36 +30,36 @@ author_website_url: "http://adrianEVI.github.io"
 
 author_work_experiences: 
             - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+              #company_logo: google.png
+              #company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
             - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
+              #company_logo: microsoft.png
+              #company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
+              - #college_logo: mit.png
                 college_name: MIT
-                college_url: https://mit.org
+                #college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
+              - #project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                #project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: programmingebooks.png
+              - #project_thumbnail: programmingebooks.png
                 project_title: Programming Ebooks
                 project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
+                #project_url: https://programmingebooks.com
                 visibility: true
 
 # social links
