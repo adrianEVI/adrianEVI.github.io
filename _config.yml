@@ -34,20 +34,26 @@ author_work_experiences:
               #company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               #company_logo: microsoft.png
               #company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 author_education_details:
-              - #college_logo: mit.png
-                college_name: MIT
+              - college_logo: unison.png
+                college_name: Universidad de Sonora
                 #college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: Ciencias de la compútacion
+                description: Grado universitario
+                visibility: true
+              - college_logo: ulpgc.jpg
+                college_name: Universidad de Las Palmas de Gran Canaria
+                #college_url: https://mit.org
+                college_degree: Ingenieria informatica
+                description: Grado universitario
                 visibility: true
 
 author_project_details:
@@ -55,30 +61,30 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 #project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - #project_thumbnail: programmingebooks.png
                 project_title: Programming Ebooks
                 project_description: A Platform to easily find and read programming books
                 #project_url: https://programmingebooks.com
-                visibility: true
+                visibility: false
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: 
+github_username:  adrianEVI
+facebook_username: 
+linkedin_username:
+behance_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
+dribbble_username:
+flickr_username: 
 
 #for comments using disqus
 disqus_shortname: sujay-kundu  
 
 # wakatime username
-wakatime_username: sujaykundu777
+wakatime_username: 
 
 # syntax highlighter
 markdown: kramdown
