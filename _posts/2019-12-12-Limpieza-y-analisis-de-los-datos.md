@@ -18,6 +18,10 @@ Estos datos fueron recopilados del portal de datos de la ciudad de México:[Dato
 Primero cargamos los datos en el archivo "incidentes-viales-c5-csv", el cual contiene 1206191 registros con 18 parametros que nos permitaran realizar algunos analisis. 
 
 ![limp](/assets/img/d1.png)
+<a title="Hermosillo, sonora" href="https://adrianevi.github.io/assets/img/d1.png">
+    <img src="https://adrianevi.github.io/assets/img/d1.png" alt="datos, accidentes">
+</a>
+
 
 ![limp](/assets/img/d2.png)
 

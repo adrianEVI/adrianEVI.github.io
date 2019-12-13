@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-13T03:43:08-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Adrian</title><subtitle>John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers</subtitle><author><name>Adrian E. Vazquez I.</name></author><entry><title type="html">Limpieza y analisis de datos</title><link href="http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos." rel="alternate" type="text/html" title="Limpieza y analisis de datos" /><published>2019-12-12T09:48:00-07:00</published><updated>2019-12-12T09:48:00-07:00</updated><id>http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos</id><content type="html" xml:base="http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos.">&lt;p&gt;La ciudad de México es una de las ciudades mas pobladas del mundo donde la vialidad automovilistica provoca grandes problemas.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-13T04:10:46-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Adrian</title><subtitle>John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers</subtitle><author><name>Adrian E. Vazquez I.</name></author><entry><title type="html">Limpieza y analisis de datos</title><link href="http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos." rel="alternate" type="text/html" title="Limpieza y analisis de datos" /><published>2019-12-12T09:48:00-07:00</published><updated>2019-12-12T09:48:00-07:00</updated><id>http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos</id><content type="html" xml:base="http://localhost:4000/blog/Limpieza-y-analisis-de-los-datos.">&lt;p&gt;La ciudad de México es una de las ciudades mas pobladas del mundo donde la vialidad automovilistica provoca grandes problemas.&lt;/p&gt;
 
 &lt;p&gt;El objetivo de este analizis es poder prevenir accidentes viales y disminuir las consecuencias que estos pueden tener con base a las fechas, horas, localizacion y delegaciones donde sucedieron accidentes en los ultimos 4 años en la ciudad de México.&lt;/p&gt;
 
@@ -6,7 +6,10 @@
 
 &lt;p&gt;Primero cargamos los datos en el archivo “incidentes-viales-c5-csv”, el cual contiene 1206191 registros con 18 parametros que nos permitaran realizar algunos analisis.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/d1.png&quot; alt=&quot;limp&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/d1.png&quot; alt=&quot;limp&quot; /&gt;
+&lt;a title=&quot;Hermosillo, sonora&quot; href=&quot;https://adrianevi.github.io/assets/img/d1.png&quot;&gt;
+    &lt;img src=&quot;https://adrianevi.github.io/assets/img/d1.png&quot; alt=&quot;datos, accidentes&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/d2.png&quot; alt=&quot;limp&quot; /&gt;&lt;/p&gt;
 
